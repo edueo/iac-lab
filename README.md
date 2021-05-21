@@ -15,7 +15,7 @@ Minha jornada no mundo de IaC
 
 ### Terraform
 
-Iniciar: `terraform init`: Inicializa o projeto. 
-Planejar: `terraform plan`: Mostrar tudo que será criado/modificado em sua infra
-Aplicar: `terraform apply`: Aplica tudo que foi listado no `plan` em sua infra
-Formata: `terraform fmt`: Format arquivos `.tf`
+Iniciar: `terraform init`: Inicializa o projeto  
+Planejar: `terraform plan`: Mostrar tudo que será criado/modificado em sua infra  
+Aplicar: `terraform apply`: Aplica tudo que foi listado no `plan` em sua infra  
+Formata: `terraform fmt`: Format arquivos `.tf`  
